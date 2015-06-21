@@ -1,0 +1,11 @@
+frameworks/
+runtime/
+.idea/
+*.project
+*.xml
+*.properties
+*.iml
+*.webapp
+.settings/
+publish/
+.cocos-project.json
